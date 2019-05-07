@@ -1,17 +1,22 @@
 import os
 
 directory = "../syllabified_words/"
-master_list = []
+full_list = []
 
-for file in os.scandir(directory):
-    if file.path.endswith(".csv"):
-        with open(file.path,'r') as entries:
-            for entry in entries:
-                if entry not in master_list:
-                    if entry.endswith("\n"):
-                        master_list.append(entry)
-                    else:
-                        master_list.append(entry+"\n")
+for fileobj in os.scandir(directory):
+    if fileobj.path.endswith(".csv"):
+        if fileobj.path.endswith("_full_list.csv"):
+            pass
+        else:
+            with open(fileobj.path,'r') as entries:
+                for entry in entries:
+                    if entry not in full_list:
+                        if entry.endswith("\n"):
+                            full_list.append(entry)
+                        else:
+                            print(entry+"\n")
+                            full_list.append(entry+"\n")
+
 with open(directory+"_full_list.csv", mode = "w+", encoding = "utf-8") as fobj:
-    for entry in set(master_list):
+    for entry in set(full_list):
         fobj.write(entry)
