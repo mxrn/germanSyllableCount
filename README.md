@@ -10,11 +10,17 @@ Examples for use cases:
 
 ## Data
 
-The data is stored in CSV files. All data files are stored in the ```syllabified_words``` directory.
+The data is stored in CSV files. All data files are stored in the
+```syllabified_words``` directory.
+
+All entries can be found in ```syllabified_words/_full_list.csv```
 
 ### Data records
 
-The records are stored in CSV files. A single file covers a specific part of speech and relates to a domain e. g. biology or medicine.
+The records are stored in CSV files.
+
+All entries of a reviewed file are copied to ```_full_list.csv```. The file
+is subsequently deleted.
 
 A record consists of a german word and its syllabified version, separated by a comma. The syllables are separated using the pipe symbol (|).
 
@@ -27,13 +33,62 @@ Einträge,Ein|trä|ge
 Silben,Sil|ben
 ```
 
-### File names
+## Syllabification rules
 
-File names are used to add some semantic to the lists. File names have the following format:
+When in doubt, Duden is authoritative.
+
+### tz
+
+_tz_ is usually split between _t_ and _z_.
 
 ```
-language.partOfSpeech.grammar.domain.subdomain.csv
+Katze,Kat|ze
+Bodenschätze,Bo|den|schät|ze
 ```
 
+### ng
 
+_ng_ is usually split between _n_ and _g_, except when a word ends
+with _ng_.
 
+```
+Lunge,Lun|ge
+hängen,hän|gen
+```
+
+but
+
+```
+Verwandlung,Ver|wand|lung
+Verbindung,Ver|bin|dung
+```
+
+### tion, tial
+
+_tion_ is usually split between  _ti_ and _on_. _tial_ is usually split between  _ti_ and _al_.
+
+```
+Kommunikation,Kom|mu|ni|ka|ti|on
+partitionieren,par|ti|ti|o|nie|ren
+Potential,Po|ten|ti|al
+```
+### ck
+
+Words are usually split before _ck_, except when _ck_ appears as part
+of the last syllable.
+
+```
+Trecker,Tre|cker
+abrackern,ab|ra|ckern
+```
+
+but
+
+```
+Müllsack,Müll|sack
+vertrackt, ver|trackt
+```
+
+Do __not__ split _ck_, especially not into _k_ and _k_. It's
+deprecated, makes spell checking harder and does not add a lot of
+information regarding syllable count.
