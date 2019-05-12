@@ -92,3 +92,26 @@ vertrackt, ver|trackt
 Do __not__ split _ck_, especially not into _k_ and _k_. It's
 deprecated, makes spell checking harder and does not add a lot of
 information regarding syllable count.
+
+### st
+
+There are several possibilities:
+
+1. _st_ spoken as "s(c)ht" is kept together. It is frequently found at
+   the beginning of a word or the beginning of composita, followed by
+   a vowel.
+2. _st_ at the end of a word is kept together.
+3. _st_ followed by a vowel in the middle of a word is frequently
+split (except for case 1).
+4. _st_ followed by a consonant is usually kept together and marks the
+   end of a syllable.
+
+```
+stehlen,steh|len
+Entstehung,Ent|ste|hung
+Rassist,Ras|sist
+rassistisch,ras|sis|tisch
+Kasten,Kas|ten
+erste,ers|te
+rastlos,rast|los
+```
