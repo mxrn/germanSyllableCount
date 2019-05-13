@@ -16,7 +16,7 @@ for fileobj in os.scandir(directory):
                         print(entry+"\n")
                         full_list.append(entry+"\n")
             print('added '+str(i)+' entries from file '+fileobj.path)
-i=0
+            i=0
 with open(directory+"_full_list.csv", mode = "w+", encoding = "utf-8") as fobj:
     for entry in sorted(set(full_list)):
         fobj.write(entry)
