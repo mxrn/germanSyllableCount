@@ -324,7 +324,7 @@ Bundesliga,Bun|des|li|ga
 Bundesnaturschutzgesetz,Bun|des|na|tur|schutz|ge|setz
 Bundestagsabgeordnete,Bun|des|tags|ab|ge|ord|ne|te
 Bundeswaldgesetz,Bun|des|wald|ge|setz
-Bush,Busch
+Busch,Busch
 Bushcrafter,Bush|craf|ter
 Business,Busi|ness
 Bux,Bux
@@ -2257,7 +2257,7 @@ Tauben,Tau|ben
 Tausendfüßer,Tau|send|fü|ßer
 Team,Team
 Teich,Teich
-Teiche.Tei|che
+Teiche,Tei|che
 Teile,Tei|le
 Teilnehmer,Teil|neh|mer
 Teilnehmerinnen,Teil|neh|me|rin|nen
@@ -2331,7 +2331,7 @@ Tromsø,Trom|sø
 Träume,Träu|me
 Tucholsky,Tu|chol|sky
 Tulpe,Tul|pe
-Tul|pen
+Tulpen,Tul|pen
 Turbine,Tur|bi|ne
 Typ,Typ
 Typen,Ty|pen
@@ -2471,6 +2471,7 @@ Waldeinteilung,Wald|ein|tei|lung
 Waldes,Wal|des
 Waldgesetz,Wald|ge|setz
 Waldgesetzen,Wald|ge|set|zen
+Waldrebe,Wald|rebe
 Waldwege,Wald|we|ge
 Waldwiesen,Wald|wie|sen
 Wale,Wa|le
@@ -2634,9 +2635,6 @@ Zwergdommeln,Zwerg|dom|meln
 Zwiebelblumen,Zwie|bel|blu|men
 Zwiebeln,Zwie|beln
 Zwinkern,Zwin|kern
-_Waldrebe,Wald|rebe
-_überwachsen,ü|ber|wach|sen
-_überwintern,überwintern
 ab,ab
 abbrennen,ab|bren|nen
 abdichten,ab|dich|ten
@@ -3950,7 +3948,8 @@ nächste,nächs|te
 nächsten,nächs|ten
 nächstliegende,nächst|lie|gen|de
 nähen,nä|hen
-nähte,näh|ten
+nähte,näh|te
+nähten,näh|ten
 nämlich,näm|lich
 nördlich,nörd|lich
 nützlich,nütz|lich
@@ -4819,6 +4818,8 @@ zählte,zähl|te
 übertragen,ü|ber|tra|gen
 übertragenen,ü|ber|tra|ge|nen
 übertrieben,ü|ber|trie|ben
+überwachsen,ü|ber|wach|sen
 überwindbaren,ü|ber|wind|ba|ren
+überwintern,überwintern
 übrigen,ü|bri|gen
 übrigens,ü|bri|gens
