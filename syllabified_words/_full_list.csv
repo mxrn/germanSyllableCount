@@ -3,6 +3,7 @@ Aal,Aal
 Aale,Aa|le
 Aaron,Aa|ron
 Abbau,Ab|bau
+Abend,A|bend
 Abgasnorm,Ab|gas|norm
 Abgeordneten,Ab|ge|ord|ne|ten
 Abi,A|bi
@@ -50,6 +51,7 @@ Alternative,Al|ter|na|ti|ve
 Ambulanz,Am|bu|lanz
 Ameise,A|mei|se
 Ameisen,A|mei|sen
+Amme,Am|me
 Amsel,Am|sel
 Amseln,Am|seln
 Amöbe,A|mö|be
@@ -84,6 +86,7 @@ Anspruch,An|spruch
 Anstoßzeiten,An|stoß|zei|ten
 Anstrengung,An|stren|gung
 Anstrengungen,An|stren|gun|gen
+Anteilseigner,An|teils|eig|ner
 Antriebsformel,An|triebs|for|mel
 Antworten,Ant|wor|ten
 Anwurf,An|wurf
@@ -104,6 +107,7 @@ Areale,A|re|a|le
 Arktis,Ark|tis
 Arktis-Staaten,Ark|tis-|Staa|ten
 Arm,Arm
+Armbanduhr,Arm|band|uhr
 Arme,Ar|me
 Armes,Ar|mes
 Armin,Ar|min
@@ -119,6 +123,8 @@ Aspekte,As|pek|te
 Assessment,As|sess|ment
 Asthma,Asth|ma
 Astrid,As|trid
+Atem,A|tem
+Atemgerät,A|tem|ge|rät
 Athabaskan,A|tha|bas|kan
 Athabasken,A|tha|bas|ken
 Auerhahn,Au|er|hahn
@@ -152,6 +158,7 @@ Auswahl,Aus|wahl
 Ausübung,Aus|ü|bung
 Autos,Au|tos
 Außenminister,Au|ßen|mi|nis|ter
+Avatar,A|va|tar
 Axolotl,Axo|lotl
 Baby,Ba|by
 Baby-Universität,Ba|by-|U|ni|ver|si|tät
@@ -167,6 +174,7 @@ Baggersee,Bag|ger|see
 Bahn,Bahn
 Balance,Ba|lance
 Balkon,Bal|kon
+Barbaren,Bar|ba|ren
 Barney,Bar|ney
 Barry,Bar|ry
 Barsch,Barsch
@@ -237,6 +245,7 @@ Betriebsrat,Be|triebs|rat
 Betroffener,Be|trof|fe|ner
 Bett,Bett
 Bewirtschaftung,Be|wirt|schaf|tung
+Bezahlung,Be|zah|lung
 Beziehung,Be|zie|hung
 Biber,Bi|ber
 Biegefeder,Bie|ge|fe|der
@@ -244,11 +253,13 @@ Biene,Bie|ne
 Bienen,Bie|nen
 Bild,Bild
 Bilderrahmen,Bil|der|rah|men
+Bildschirm,Bild|schirm
 Bildung,Bil|dung
 Bildungsabschluss,Bil|dungs|ab|schluss
 Bildungsabschlüsse,Bil|dungs|ab|schlüs|se
 Bildungsbürger,Bil|dungs|bür|ger
 Bill,Bill
+Biometrie,Bi|o|me|trie
 Birnbaum,Birn|baum
 Birne,Bir|ne
 Blasenkontrolle,Bla|sen|kon|trol|le
@@ -287,6 +298,8 @@ Bodendecken,Bo|den|de|cken
 Bodenniveau,Bo|den|ni|veau
 Bodens,Bo|dens
 Bodenschätzen,Bo|den|schät|zen
+Bogen,Bo|gen
+Bohne,Boh|ne
 Bohnen,Boh|nen
 Bohrgerät,Bohr|ge|rät
 Bohrung,Bohr|ung
@@ -302,6 +315,7 @@ Braunbär,Braun|bär
 Braunbären,Braun|bä|ren
 Breite,Brei|te
 Bremer,Bre|mer
+Briefträger,Brief|trä|ger
 Brigitte,Bri|git|te
 Brillenschlange,Bril|len|schlan|ge
 Brillenschlangen,Bril|len|schlan|gen
@@ -318,8 +332,10 @@ Buchfinken,Buch|fin|ken
 Buchladen,Buch|la|den
 Bulldogge,Bull|dog|ge
 Bulldoggen,Bull|dog|gen
+Bulldozer,Bull|do|zer
 Bulle,Bul|le
 Bullen,Bul|len
+Bullshit,Bull|shit
 Bundesliga,Bun|des|li|ga
 Bundesnaturschutzgesetz,Bun|des|na|tur|schutz|ge|setz
 Bundestagsabgeordnete,Bun|des|tags|ab|ge|ord|ne|te
@@ -341,7 +357,9 @@ Caecilia,Cae|ci|li|a
 Caesar,Cae|sar
 Caitlin,Cait|lin
 Caleb,Ca|leb
+Caliban,Ca|li|ban
 Calvin,Cal|vin
+Camp,Camp
 Caprio,Ca|pri|o
 Carlo,Car|lo
 Carmen,Car|men
@@ -355,6 +373,7 @@ Center,Cen|ter
 Chancen,Chan|cen
 Charme,Charme
 Checkup,Check|up
+Cheddar,Ched|dar
 Chefarzt,Chef|arzt
 Chefkoch,Chef|koch
 Chefredakteur,Chef|re|dak|teur
@@ -385,6 +404,8 @@ Comicliteratur,Co|mic|li|te|ra|tur
 Community,Com|mu|ni|ty
 Cordula,Cor|du|la
 Council,Coun|cil
+Courage,Cou|ra|ge
+Cyborg,Cy|borg
 DAX,DAX
 Dachkante,Dach|kan|te
 Dachorganisationen,Dach|or|ga|ni|sa|ti|o|nen
@@ -423,6 +444,7 @@ Dennis,Den|nis
 Derby,Der|by
 Design,De|sign
 Destillerie,Des|til|le|rie
+Detmold,Det|mold
 Deutschen,Deut|schen
 Deutschland,Deutsch|land
 Deutschlands,Deutsch|lands
@@ -441,15 +463,18 @@ Dimitrij,Di|mi|trij
 Dinge,Din|ge
 Dingo,Din|go
 Dingos,Din|gos
+Diplomatie,Di|plo|ma|tie
 Dirk,Dirk
 Diskrepanz,Dis|kre|panz
 Dobermann,Do|ber|mann
 Dobermänner,Do|ber|män|ner
 Dohle,Doh|le
 Dohlen,Doh|len
+Dolch,Dolch
 Dolphin,Dol|phin
 Donnerstag,Don|ners|tag
 Doppelkabine,Dop|pel|ka|bi|ne
+Dorf,Dorf
 Dosen,Do|sen
 Dosentomaten,Do|sen|to|ma|ten
 Drache,Dra|che
@@ -459,6 +484,7 @@ Drossel,Dros|sel
 Drosseln,Dros|seln
 Druckerpresse,Dru|cker|pres|se
 Druckgeschwüre,Druck|ge|schwü|re
+Dschungel,Dschun|gel
 Dufftown,Duff|town
 Duft,Duft
 Dummheit,Dumm|heit
@@ -493,6 +519,7 @@ Einsatzzwecke,Ein|satz|zwe|cke
 Einschussloch,Ein|schuss|loch
 Einstein,Ein|stein
 Einsteins,Ein|steins
+Einstellung,Ein|stel|lung
 Einwand,Ein|wand
 Einzelheiten,Ein|zel|hei|ten
 Einzelnachweise,Ein|zel|nach|wei|se
@@ -549,11 +576,14 @@ Erklärungen,Er|klä|run|gen
 Erlaubnis,Er|laub|nis
 Erlebnis,Er|leb|nis
 Erleichterungen,Er|leich|te|run|gen
+Ersatz,Er|satz
+Erstaunen,Er|stau|nen
 Erstgespräch,Erst|ge|spräch
 Erstkontakt,Erst|kon|takt
 Erwachsene,Er|wach|se|ne
 Erwin,Er|win
 Erwärmung,Er|wär|mung
+Erzbischof,Erz|bi|schof
 Erzählungen,Er|zäh|lun|gen
 Esel,E|sel
 Eskimos,Es|ki|mos
@@ -572,6 +602,9 @@ Fabienne,Fa|bi|enne
 Fabricius,Fa|bri|ci|us
 Facharbeiterpartei,Fach|ar|bei|ter|par|tei
 Fachliteratur,Fach|li|te|ra|tur
+Fachwort,Fach|wort
+Fackel,Fa|ckel
+Fackeln,Fa|ckeln
 Fahrerhaus,Fah|rer|haus
 Fahrerkabine,Fah|rer|ka|bi|ne
 Fahrgestell,Fahr|ge|stell
@@ -589,6 +622,7 @@ Familienvater,Fa|mi|li|en|va|ter
 Fantasten,Fan|tas|ten
 Farben,Far|ben
 Farhad,Far|had
+Farn,Farn
 Fase,Fa|se
 Faserstranges,Fa|ser|stran|ges
 Fass,Fass
@@ -597,6 +631,7 @@ Februar,Fe|bru|ar
 Feder,Fe|der
 Fee,Fee
 Feedback,Feed|back
+Feldpost,Feld|post
 Feldschutzes,Feld|schut|zes
 Felice,Fe|li|ce
 Felix,Fe|lix
@@ -717,6 +752,8 @@ Fähigkeiten,Fä|hig|kei|ten
 Föderation,Fö|de|ra|ti|on
 Füchse,Füch|se
 Fünfgang-Schaltgetriebe,Fünf|gang-|Schalt|ge|trie|be
+Gabel,Ga|bel
+Gabeln,Ga|beln
 Gabriel,Ga|bri|el
 Gabriela,Ga|bri|e|la
 Gameplan,Game|plan
@@ -770,6 +807,7 @@ Gerd,Gerd
 Gerhard,Ger|hard
 Gesamtgewicht,Ge|samt|ge|wicht
 Gesamtpaket,Ge|samt|pa|ket
+Gesang,Ge|sang
 Geschenk,Ge|schenk
 Geschenkpakete,Ge|schenk|pa|ke|te
 Geschenkpaketen,Ge|schenk|pa|ke|ten
@@ -861,6 +899,7 @@ Gärten,Gär|ten
 Gärtner,Gärt|ner
 Gärtnerin,Gärt|ne|rin
 Gäste,Gäs|te
+Göttin,Göt|tin
 Günther,Gün|ther
 Güter,Gü|ter
 Haare,Haa|re
@@ -872,22 +911,28 @@ Haie,Hai|e
 Haifisch,Hai|fisch
 Haifische,Hai|fi|sche
 Halina,Ha|li|na
+Hallelujah,Hal|le|lu|jah
+Halluzination,Hal|lu|zi|na|ti|on
 Halswirbelsäule,Hals|wir|bel|säu|le
+Hamburg,Ham|burg
 Hammer,Ham|mer
 Hammerhai,Ham|mer|hai
 Hammerhaie,Ham|mer|hai|e
 Hamster,Hams|ter
 Hand,Hand
+Handbuch,Hand|buch
 Handchirurgen,Hand|chi|rur|gen
 Handelsrouten,Han|dels|rou|ten
 Handicap,Han|di|cap
 Handwerk,Hand|werk
+Handy,Han|dy
 Hannah,Han|nah
 Hans,Hans
 Hansen,Han|sen
 Harald,Ha|rald
 Harry,Har|ry
 Hartmut,Hart|mut
+Haschisch,Ha|schisch
 Hase,Ha|se
 Hasen,Ha|sen
 Haube,Hau|be
@@ -903,6 +948,7 @@ Heidi,Hei|di
 Heike,Hei|ke
 Heilbutt,Heil|butt
 Heilbutte,Heil|but|te
+Heilerin,Hei|le|rin
 Heilung,Hei|lung
 Heimspielen,Heim|spie|len
 Helena,He|le|na
@@ -922,8 +968,10 @@ Hermelin,Her|me|lin
 Hermeline,Her|me|li|ne
 Hermine,Her|mi|ne
 Hersteller,Her|stel|ler
+Herzen,Her|zen
 Heuschrecke,Heu|schre|cke
 Heuschrecken,Heu|schre|cken
+Hexe,Hexe
 Highland,High|land
 Hildegard,Hil|de|gard
 Hilfe,Hil|fe
@@ -931,6 +979,7 @@ Hilfsmittel,Hilfs|mit|tel
 Hindernissen,Hin|der|nis|sen
 Hinführung,Hin|füh|rung
 Hinterhof,Hin|ter|hof
+Hirn,Hirn
 Hirsch,Hirsch
 Hirsche,Hir|sche
 Hitze,Hit|ze
@@ -955,6 +1004,7 @@ Hovawarte,Ho|va|war|te
 Hub,Hub
 Hubert,Hu|bert
 Hubraum,Hub|raum
+Hubschrauber,Hub|schrau|ber
 Huhn,Huhn
 Humbug,Hum|bug
 Hummel,Hum|mel
@@ -976,6 +1026,7 @@ Höckerschwan,Hö|cker|schwan
 Höckerschwäne,Hö|cker|schwä|ne
 Höhe,Hö|he
 Hörende,Hö|ren|de
+Hühnchen,Hühn|chen
 Hühner,Hüh|ner
 Ian,I|an
 Ida,I|da
@@ -1079,10 +1130,13 @@ Kanada,Ka|na|da
 Kanadas,Ka|na|das
 Kaninchen,Ka|nin|chen
 Kannibale,Kan|ni|ba|le
+Kanone,Ka|no|ne
+Kansas,Kan|sas
 Kanthölzer,Kant|höl|zer
 Kanzler,Kanz|ler
 Kapitän,Ka|pi|tän
 Kappmuskel,Kapp|mus|kel
+Kardinal,Kar|di|nal
 Karikatur,Ka|ri|ka|tur
 Karl,Karl
 Karl-Heinz,Karl-|Heinz
@@ -1090,6 +1144,8 @@ Karla,Kar|la
 Karpfen,Karp|fen
 Karsten,Kar|sten
 Karte,Kar|te
+Kartoffel,Kar|tof|fel
+Kartoffeln,Kar|tof|feln
 Katastrophe,Ka|tas|tro|phe
 Kategorie,Ka|te|go|rie
 Katharina,Ka|tha|ri|na
@@ -1140,6 +1196,7 @@ Knopfdruck,Knopf|druck
 Knurrhahn,Knurr|hahn
 Knurrhähne,Knurr|häh|ne
 Knut,Knut
+Knöpfchen,Knöpf|chen
 Kobra,Ko|bra
 Kobras,Ko|bras
 Kochlöffel,Koch|löf|fel
@@ -1147,10 +1204,12 @@ Kohl,Kohl
 Kohlenmeiler,Koh|len|mei|ler
 Kohlmeise,Kohl|mei|se
 Kohlmeisen,Kohl|mei|sen
+Kokain,Ko|ka|in
 Kolkrabe,Kolk|ra|be
 Kolkraben,Kolk|ra|ben
 Kollegen,Kol|le|gen
 Kollegin,Kol|le|gin
+Kolonie,Ko|lo|nie
 Kolumne,Ko|lum|ne
 Kolumnistenberuf,Ko|lum|nis|ten|be|ruf
 Kombinationen,Kom|bi|na|ti|o|nen
@@ -1161,6 +1220,7 @@ Kommission,Kom|mis|si|on
 Kommunist,Kom|mu|nist
 Kompetenzbetrunkenheit,Kom|pe|tenz|be|trun|ken|heit
 Konfetti,Kon|fet|ti
+Konflikt,Kon|flikt
 Konkurrenz,Kon|kur|renz
 Konrad,Kon|rad
 Konsequenz,Kon|se|quenz
@@ -1178,6 +1238,7 @@ Korbinian,Kor|bi|nian
 Kordula,Kor|du|la
 Kornrade,Korn|ra|de
 Kotflügel,Kot|flü|gel
+Krach,Krach
 Krafträume,Kraft|räu|me
 Kragengeißeltierchen,Kra|gen|gei|ßel|tier|chen
 Kranich,Kra|nich
@@ -1185,11 +1246,18 @@ Kraniche,Kra|ni|che
 Krankenfahrstühlen,Kran|ken|fahr|stüh|len
 Krankengymnasten,Kran|ken|gym|nas|ten
 Krankenhaus,Kran|ken|haus
+Kranz,Kranz
+Kraut,Kraut
+Krawatte,Kra|wat|te
+Kreatur,Kre|a|tur
 Kreissäge,Kreis|säge
+Krematorium,Kre|ma|to|ri|um
 Kreuzkümmel,Kreuz|küm|mel
 Kreuzspinne,Kreuz|spin|ne
 Kreuzspinnen,Kreuz|spin|nen
 Krieg,Krieg
+Krieger,Krie|ger
+Kriegerin,Krie|ge|rin
 Krista,Kris|ta
 Krokodil,Kro|ko|dil
 Krokodile,Kro|ko|di|le
@@ -1198,6 +1266,7 @@ Kronenrad,Kro|nen|rad
 Kronleuchter,Kron|leuch|ter
 Krähe,Krä|he
 Krähen,Krä|hen
+Kränze,Krän|ze
 Kräuter,Kräu|ter
 Kräuterbeet,Kräu|ter|beet
 Krücke,Krü|cke
@@ -1223,6 +1292,7 @@ Känguruhs,Kän|gu|ruhs
 Kängurus,Kän|gu|rus
 Käthe,Kä|the
 Käuzchen,Käuz|chen
+Köhler,Köh|ler
 Königreich,Kö|nig|reich
 Köpfe,Kö|pfe
 Körper,Kör|per
@@ -1231,12 +1301,15 @@ Kühe,Kü|he
 Kühlergrills,Küh|ler|grills
 Kühlschrank,Kühl|schrank
 Kühnert,Küh|nert
+Küste,Küs|te
 Küstenstädte,Küs|ten|städ|te
 Labbert,Lab|bert
+Labor,La|bor
 Lachs,Lachs
 Lachse,La|chse
 Ladekran,La|de|kran
 Laden,La|den
+Ladung,La|dung
 Lager,La|ger
 Lagersitz,La|ger|sitz
 Lamm,Lamm
@@ -1255,9 +1328,11 @@ Larissa,La|ris|sa
 Lars,Lars
 Larve,Lar|ve
 Larven,Lar|ven
+Laser,La|ser
 Lasse,Las|se
 Lassie,Las|sie
 Lastwagen,Last|wa|gen
+Laub,Laub
 Laubbäume,Laub|bäu|me
 Laufhund,Lauf|hund
 Laufhunde,Lauf|hun|de
@@ -1268,6 +1343,7 @@ Leander,Le|an|der
 Leben,Le|ben
 Lebens,Le|bens
 Lebensbaum,Le|bens|baum
+Lebenslust,Le|bens|lust
 Lebensqualität,Le|bens|qua|li|tät
 Lebkuchen,Leb|ku|chen
 Leere,Lee|re
@@ -1306,6 +1382,7 @@ Leuten,Leu|ten
 Lia,Lia
 Liam,Li|am
 Liana,Lia|na
+Liane,Li|a|ne
 Libelle,Li|bel|le
 Libellen,Li|bel|len
 Licht,Licht
@@ -1324,9 +1401,11 @@ Limitierungen,Li|mi|tie|run|gen
 Lina,Li|na
 Linda,Lin|da
 Linus,Li|nus
+Lippe,Lip|pe
 Lippen,Lip|pen
 Lisa,Li|sa
 Lisanne,Li|san|ne
+List,List
 Liste,Lis|te
 Literatur,Li|te|ra|tur
 Litern,Li|tern
@@ -1353,6 +1432,7 @@ Luke,Luke
 Luna,Lu|na
 Lurch,Lurch
 Lurche,Lur|che
+Lust,Lust
 Lutz,Lutz
 Lynn,Lynn
 Lyonnais,Ly|on|nais
@@ -1363,6 +1443,7 @@ Länder,Län|der
 Länge,Län|ge
 Lärche,Lär|che
 Löcher,Lö|cher
+Löffel,Löf|fel
 Löffelbiskuits,Löf|fel|bis|kuits
 Löschfahrzeug,Lösch|fahr|zeug
 Löwe,Lö|we
@@ -1408,11 +1489,13 @@ Marianne,Ma|ri|an|ne
 Marie,Ma|rie
 Marienkäfer,Ma|rien|kä|fer
 Marina,Ma|ri|na
+Marine,Ma|ri|ne
 Mario,Ma|rio
 Marion,Ma|ri|on
 Marius,Ma|ri|us
 Mark,Mark
 Marketing,Mar|ke|ting
+Markierer,Mar|kie|rer
 Markt,Markt
 Marktes,Mark|tes
 Markus,Mar|kus
@@ -1497,10 +1580,12 @@ Mira,Mi|ra
 Miriam,Mi|ri|am
 Mirko,Mir|ko
 Mischung,Mi|schung
+Mission,Mis|si|on
 Mistkäfer,Mist|kä|fer
 Mitgliedern,Mit|glie|dern
 Mitgliedsstaaten,Mit|glieds|staa|ten
 Mitleid,Mit|leid
+Mittag,Mit|tag
 Mitte,Mit|te
 Mittelfinger,Mit|tel|fin|ger
 Mittelschichtsmuttis,Mit|tel|schichts|mut|tis
@@ -1513,11 +1598,14 @@ Mohammed,Mo|ham|med
 Molch,Molch
 Molche,Mol|che
 Mona,Mo|na
+Mond,Mond
 Monika,Mo|ni|ka
 Monique,Mo|nique
+Monster,Mon|ster
 Montag,Mon|tag
 Mooskuh,Moos|kuh
 Mooskühe,Moos|kü|he
+Morgen,Mor|gen
 Moritz,Mo|ritz
 Motivation,Mo|ti|va|ti|on
 Motiven,Mo|ti|ven
@@ -1561,12 +1649,14 @@ Mühe,Mühe
 Nachbarn,Nach|barn
 Nachbarschaft,Nach|bar|schaft
 Nachfolgemodell,Nach|fol|ge|modell
+Nacht,Nacht
 Nachteil,Nach|teil
 Nachwuchs,Nach|wuchs
 Nacktschnecke,Nackt|schne|cke
 Nacktschnecken,Nackt|schne|cken
 Nadelbäume,Na|del|bäu|me
 Nadine,Na|dine
+Nagelschere,Na|gel|schere
 Naht,Naht
 Name,Na|me
 Namen,Na|men
@@ -1629,7 +1719,10 @@ Nora,No|ra
 Norden,Nor|den
 Norwegen,Nor|we|gen
 Norwegens,Nor|we|gens
+Notizzettel,No|tiz|zet|tel
 November,No|vem|ber
+Nudel,Nu|del
+Nudeln,Nu|deln
 Nullstelle,Null|stel|le
 Nutzlast,Nutz|last
 Nutzpflanzen,Nutz|pflan|zen
@@ -1651,6 +1744,7 @@ Ochse,Och|se
 Ochsen,Och|sen
 Oelek,Oe|lek
 Ohren,Oh|ren
+Ohrring,Ohr|ring
 Oktober,Ok|to|ber
 Oktopus,Ok|to|pus
 Oktopusse,Ok|to|pus|se
@@ -1665,6 +1759,7 @@ Online-Beitrag,On|line-|Bei|trag
 Online-Spiele,On|line-|Spie|le
 Operation,O|pe|ra|ti|on
 Operationen,O|pe|ra|ti|o|nen
+Ordnung,Ord|nung
 Organisation,Or|ga|ni|sa|ti|on
 Organisationen,Or|ga|ni|sa|ti|o|nen
 Orka,Or|ka
@@ -1681,6 +1776,7 @@ Ozean,O|ze|an
 Ozelot,O|ze|lot
 Ozelots,O|ze|lots
 Pakistan,Pa|kis|tan
+Palme,Pal|me
 Pamela,Pa|me|la
 Pangasius,Pan|ga|si|us
 Panik,Pa|nik
@@ -1726,6 +1822,7 @@ Peter,Pe|ter
 Petersilie,Pe|ter|si|li|e
 Petra,Pe|tra
 Pfeffer,Pfef|fer
+Pfeile,Pfei|le
 Pferd,Pferd
 Pferde,Pfer|de
 Pfingsten,Pfings|ten
@@ -1737,12 +1834,14 @@ Pflanzmöglichkeiten,Pflanz|mög|lich|kei|ten
 Pflaume,Pflau|me
 Pflaumenbaum,Pflau|men|baum
 Pflege,Pfle|ge
+Phase,Pha|se
 Phil,Phil
 Philip,Phi|lip
 Phillipp,Phil|lipp
 Physik,Phy|sik
 Pia,Pia
 Piet,Piet
+Pilze,Pil|ze
 Pinguin,Pin|gu|in
 Pinguine,Pin|gu|ine
 Pinscher,Pin|scher
@@ -1783,6 +1882,7 @@ Pritsche,Prit|sche
 Pritschenfahrzeug,Prit|schen|fahr|zeug
 Pritschenmodelle,Prit|schen|mo|del|le
 Pritschenwagen,Prit|schen|wa|gen
+Probe,Pro|be
 Problem,Pro|blem
 Probleme,Pro|ble|me
 Producers,Pro|du|cers
@@ -1802,6 +1902,7 @@ Prüfung,Prü|fung
 Pudel,Pu|del
 Pulli,Pul|li
 Punkte,Punk|te
+Pupille,Pu|pil|le
 Putzer,Put|zer
 Python,Py|thon
 Pythons,Py|thons
@@ -1833,6 +1934,7 @@ Raketenwerfer,Ra|ke|ten|wer|fer
 Raketenwissenschaft,Ra|ke|ten|wis|sen|schaft
 Ralf,Ralf
 Ramona,Ra|mo|na
+Rampe,Ram|pe
 Rangsdorfer,Rangs|dor|fer
 Raphael,Ra|pha|el
 Rasen,Ra|sen
@@ -1840,6 +1942,7 @@ Rat,Rat
 Rates,Ra|tes
 Ratte,Rat|te
 Ratten,Rat|ten
+Raumschiff,Raum|schiff
 Raumzeitgitter,Raum|zeit|git|ter
 Raupe,Rau|pe
 Raupen,Rau|pen
@@ -1870,10 +1973,12 @@ Reihensechszylinder,Rei|hen|sechs|zy|lin|der
 Reiher,Reih|er
 Reiner,Rei|ner
 Reinhardt,Rein|hardt
+Reis,Reis
 Reise,Rei|se
 Reisende,Rei|sen|de
 Rekord,Re|kord
 Relativitätstheorie,Re|la|ti|vi|täts|the|o|rie
+Relikt,Re|likt
 Renate,Re|na|te
 Rene,Re|ne
 Renke,Ren|ke
@@ -1962,6 +2067,7 @@ Sachen,Sa|chen
 Sage,Sa|ge
 Saison,Saison
 Salamander,Sa|la|man|der
+Salatblatt,Sa|lat|blatt
 Salome,Sa|lo|me
 Salz,Salz
 Sam,Sam
@@ -1969,6 +2075,7 @@ Samantha,Sa|man|tha
 Sambal,Sam|bal
 Samen,Sa|men
 Samira,Sa|mi|ra
+Sammelpunkt,Sam|melpunkt
 Samstag,Sams|tag
 Samuel,Sa|mu|el
 San,San
@@ -1977,6 +2084,7 @@ Sandwich,Sand|wich
 Sanitätsfahrzeug,Sa|ni|täts|fahr|zeug
 Sara,Sa|ra
 Sarah,Sa|rah
+Sarg,Sarg
 Sascha,Sa|scha
 Saskia,Sas|kia
 Satire,Sa|ti|re
@@ -1989,6 +2097,8 @@ Schafe,Scha|fe
 Schakal,Scha|kal
 Schakale,Scha|ka|le
 Schallplatte,Schall|plat|te
+Schamane,Scha|ma|ne
+Schamanin,Scha|ma|nin
 Scharnier,Schar|nier
 Schatten,Schat|ten
 Schauspielerin,Schau|spie|le|rin
@@ -2002,6 +2112,7 @@ Schildkröte,Schild|krö|te
 Schildkröten,Schild|krö|ten
 Schirmherrschaft,Schirm|herr|schaft
 Schlagzeilen,Schlag|zei|len
+Schlamm,Schlamm
 Schlange,Schlan|ge
 Schlangen,Schlan|gen
 Schlusserklärung,Schluss|er|klä|rung
@@ -2093,6 +2204,7 @@ Selbstwertgefühl,Selbst|wert|ge|fühl
 Selina,Se|li|na
 Sensibilität,Sen|si|bi|li|tät
 September,Sep|tem|ber
+Sequenz,Se|quenz
 Serie,Se|ri|e
 Sex,Sex
 Sexualfunktion,Sex|u|al|funk|ti|on
@@ -2123,7 +2235,9 @@ Sitz,Sitz
 Sitzposition,Sitz|po|si|ti|on
 Skorpion,Skor|pi|on
 Skorpione,Skor|pi|o|ne
+Smartphone,Smart|phone
 Sofa,So|fa
+Sohle,Soh|le
 Sohn,Sohn
 Sommer,Som|mer
 Sommerblume,Som|mer|blu|me
@@ -2140,6 +2254,7 @@ Sowjetunion,So|wjet|un|i|on
 Spanien,Spa|ni|en
 Spannrolle,Spann|rol|le
 Spaß,Spaß
+Speer,Speer
 Spezialaufbauten,Spe|zi|al|auf|bau|ten
 Spezialitäten,Spe|zia|li|tä|ten
 Spiegelkarpfen,Spie|gel|karp|fen
@@ -2155,6 +2270,7 @@ Sportart,Sport|art
 Sportarten,Sport|ar|ten
 Sports,Sports
 Spreizniet,Spreiz|niet
+Springerstiefel,Sprin|ger|stie|fel
 Sprung,Sprung
 Sprungs,Sprungs
 Spuren,Spu|ren
@@ -2163,6 +2279,7 @@ Staaten,Staa|ten
 Stadion,Sta|di|on
 Stadium,Sta|di|um
 Stadt,Stadt
+Stamm,Stamm
 Standardaufbau,Stan|dard|auf|bau
 Standort,Stand|ort
 Startseite,Start|sei|te
@@ -2194,6 +2311,7 @@ Stirling,Stir|ling
 Stirnrad,Stirn|rad
 Stoppschild,Stopp|schild
 Strahlkraft,Strahl|kraft
+Strand,Strand
 Strandkrabbe,Strand|krab|be
 Strandkrabben,Strand|krab|ben
 Strategie,Stra|te|gie
@@ -2214,6 +2332,8 @@ Stufenscheibe,Stu|fen|schei|be
 Stufenwelle,Stu|fen|wel|le
 Stuhlentleerung,Stuhl|ent|lee|rung
 Stunden,Stun|den
+Sturm,Sturm
+Stämme,Stäm|me
 Stör,Stör
 Störe,Stö|re
 Stück,Stück
@@ -2226,7 +2346,10 @@ Sven,Sven
 Svenja,Sven|ja
 Säue,Säu|e
 Säule,Säu|le
+Söldner,Söld|ner
+Söldnerin,Söld|ne|rin
 Sören,Sö|ren
+Südafrika,Süd|af|ri|ka
 Süden,Sü|den
 Südkorea,Süd|ko|re|a
 T-Reihe,T-|Rei|he
@@ -2252,10 +2375,12 @@ Tastings,Tas|tings
 Tatjana,Tat|ja|na
 Tatort,Tat|ort
 Tatsache,Tat|sa|che
+Tattoo,Tat|too
 Taube,Tau|be
 Tauben,Tau|ben
 Tausendfüßer,Tau|send|fü|ßer
 Team,Team
+Teebeutel,Tee|beu|tel
 Teich,Teich
 Teiche,Tei|che
 Teile,Tei|le
@@ -2272,6 +2397,7 @@ Text,Text
 Textaufgaben,Text|auf|ga|ben
 Texterfassungsfähigkeit,Text|er|fas|sungs|fä|hig|keit
 Textes,Tex|tes
+Theaterstück,The|a|ter|stück
 Thema,The|ma
 Themen,The|men
 Theo,The|o
@@ -2320,6 +2446,7 @@ Trainingsplätze,Trai|nings|plät|ze
 Transport,Trans|port
 Trauerweide,Trau|er|wei|de
 Traum,Traum
+Traumläufer,Traum|läu|fer
 Treffen,Tref|fen
 Treibstoff,Treib|stoff
 Tremolo,Tre|mo|lo
@@ -2328,6 +2455,8 @@ Triceps,Tri|ceps
 Trick,Trick
 Tristan,Tris|tan
 Tromsø,Trom|sø
+Trophäe,Tro|phä|e
+Trucker,Tru|cker
 Träume,Träu|me
 Tucholsky,Tu|chol|sky
 Tulpe,Tul|pe
@@ -2339,6 +2468,7 @@ Tür,Tür
 Udo,U|do
 Ufer,U|fer
 Uhr,Uhr
+Uhrzeit,Uhr|zeit
 Uhu,U|hu
 Uhus,U|hus
 Ullrich,Ull|rich
@@ -2381,6 +2511,7 @@ Urlauben,Ur|lau|ben
 Ursache,Ur|sa|che
 Ursula,Ur|su|la
 Urteile,Ur|tei|le
+Urwald,Ur|wald
 Uta,U|ta
 Ute,U|te
 Uwe,U|we
@@ -2413,6 +2544,7 @@ Vers,Vers
 Version,Ver|si|on
 Versionen,Ver|si|o|nen
 Versorgung,Ver|sor|gung
+Verständnis,Ver|ständ|nis
 Vertrag,Ver|trag
 Vertreterin,Ver|tre|te|rin
 Vertretung,Ver|tre|tung
@@ -2456,6 +2588,7 @@ Wachsmotte,Wachs|mot|te
 Wachsmotten,Wachs|mot|ten
 Wachstum,Wachs|tum
 Wachstumsstrategie,Wachs|tums|stra|te|gie
+Wahnsinn,Wahn|sinn
 Wahrheit,Wahr|heit
 Wahrnehmung,Wahr|neh|mung
 Wahrung,Wah|rung
@@ -2488,6 +2621,7 @@ Wanzen,Wan|zen
 Waschbär,Wasch|bär
 Waschbären,Wasch|bä|ren
 Wasser,Was|ser
+Wasserfall,Was|ser|fall
 Wasseroberfläche,Was|ser|o|ber|flä|che
 Watson,Wat|son
 Wattiefe,Wat|tie|fe
@@ -2498,6 +2632,7 @@ Wege,We|ge
 Wegerechts,We|ge|rechts
 Weide,Wei|de
 Weigerung,Wei|ge|rung
+Weiler,Wei|ler
 Wein,Wein
 Weinbergschnecke,Wein|berg|schne|cke
 Weinbergschnecken,Wein|berg|schne|cken
@@ -2535,6 +2670,7 @@ Wildäsungsplätze,Wild|ä|sungs|plät|ze
 Wilfried,Wil|fried
 Wilhelm,Wil|helm
 Wilhelmine,Wil|hel|mi|ne
+Wille,Wil|le
 Willen,Wil|len
 Willensstärke,Wil|lens|stär|ke
 William,Wil|liam
@@ -2607,9 +2743,12 @@ Ziel,Ziel
 Ziele,Zie|le
 Zielvorgaben,Ziel|vor|ga|ben
 Zierpflanzen,Zier|pflan|zen
+Zigarette,Zi|ga|ret|te
+Zigarre,Zi|gar|re
 Zimmers,Zim|mers
 Zimtstange,Zimt|stan|ge
 Zitat,Zi|tat
+Zitrone,Zi|tro|ne
 Zitronenabrieb,Zi|tro|nen|ab|rieb
 Zoe,Zo|e
 Zoey,Zo|ey
@@ -2635,6 +2774,7 @@ Zwergdommeln,Zwerg|dom|meln
 Zwiebelblumen,Zwie|bel|blu|men
 Zwiebeln,Zwie|beln
 Zwinkern,Zwin|kern
+Zöpfe,Zö|pfe
 ab,ab
 abbrennen,ab|bren|nen
 abdichten,ab|dich|ten
@@ -2722,6 +2862,7 @@ angeboten,an|ge|bo|ten
 angehören,an|ge|hö|ren
 angeordnete,an|ge|ord|ne|te
 angesichts,an|ge|sichts
+angesteckt,an|ge|steckt
 angesteuert,an|ge|steu|ert
 angewiesen,an|ge|wie|sen
 angezündet,an|ge|zün|det
@@ -2739,6 +2880,7 @@ anschließend,an|schlie|ßend
 anschwitzen,an|schwit|zen
 ansetzen,an|set|zen
 anstatt,an|statt
+antreiben,an|trei|ben
 anziehen,an|zieh|en
 anzusehen,an|zu|se|hen
 anzusprechen,an|zu|spre|chen
@@ -2786,6 +2928,8 @@ auskennt,aus|kennt
 auskochen,aus|ko|chen
 auslegen,aus|le|gen
 ausnehmen,aus|neh|men
+auspacken,aus|pa|cken
+ausprobieren,aus|pro|bie|ren
 ausrechnen,aus|rech|nen
 ausreichende,aus|rei|chen|de
 ausrichten,aus|rich|ten
@@ -2823,6 +2967,7 @@ bedienen,be|die|nen
 befahrbare,be|fahr|ba|re
 befand,be|fand
 befinden,be|fin|den
+befreit,be|freit
 befriedigende,be|frie|di|gen|de
 begann,be|gann
 begeistern,be|geis|tern
@@ -2859,6 +3004,7 @@ berechnen,be|rech|nen
 berechtigten,be|rech|tig|ten
 bereist,be|reist
 bereits,be|reits
+berichten,be|rich|ten
 beruflich,be|ruf|lich
 beruht,be|ruht
 berühmtester,be|rühm|tes|ter
@@ -2878,6 +3024,7 @@ besser,bes|ser
 bestanden,be|stan|den
 bestaunt,be|staunt
 besteht,be|steht
+besteigen,be|stei|gen
 besten,bes|ten
 bestimmte,be|stimm|te
 bestockte,be|stock|te
@@ -2902,6 +3049,7 @@ beträgt,be|trägt
 beurteilt,be|ur|teilt
 bevor,be|vor
 bewaffnet,be|waff|net
+bewahren,be|wah|ren
 bewegen,be|we|gen
 bewegungsunfähig,be|we|gungs|un|fä|hig
 beweise,be|wei|se
@@ -2916,6 +3064,7 @@ biegen,bie|gen
 bieten,bie|ten
 bietet,bie|tet
 bin,bin
+biometrisch,bi|o|me|trisch
 bis,bis
 bisher,bis|her
 bisheriges,bis|he|ri|ges
@@ -2941,6 +3090,7 @@ brauchen,brau|chen
 braucht,braucht
 brauchte,brau|chte
 breit,breit
+bremsen,brem|sen
 brennbaren,brenn|ba|ren
 brennende,bren|nen|de
 brettern,bret|tern
@@ -2951,10 +3101,12 @@ bunten,bun|ten
 bärtig,bär|tig
 bördeln,bör|deln
 bürgerliche,bür|ger|li|che
+chatten,chat|ten
 clinchen,clin|chen
 coaten,coat|en
 coden,co|den
 con,con
+cool,cool
 cremig,cre|mig
 crimpen,crim|pen
 da,da
@@ -2987,6 +3139,7 @@ dauerhaftes,dau|er|haf|tes
 davon,da|von
 dazu,da|zu
 definiert,de|fi|niert
+definitiv,de|fi|ni|tiv
 dein,dein
 deine,dei|ne
 deiner,dei|ner
@@ -3015,6 +3168,8 @@ deutschen,deut|schen
 deviant,de|vi|ant
 dich,dich
 dicht,dicht
+dichten,dichten
+dichtet,dichtet
 dickte,dick|te
 dickten,dick|ten
 dicktest,dick|test
@@ -3034,6 +3189,7 @@ dimensionieren,di|men|sio|nie|ren
 dir,dir
 diverse,di|ver|se
 doch,doch
+dokumentieren,do|ku|men|tie|ren
 doof,doof
 dort,dort
 drauf,drauf
@@ -3041,6 +3197,7 @@ draußen,drau|ßen
 drehen,dre|hen
 drei,drei
 dreitägige,drei|tä|gi|ge
+drin,drin
 dritte,drit|te
 drucken,dru|cken
 drücken,drü|cken
@@ -3050,6 +3207,7 @@ durch,durch
 durchführen,durch|füh|ren
 durchgeführt,durch|ge|führt
 durchschnittlichen,durch|schnitt|li|chen
+durchsuchen,durch|su|chen
 durchtrennten,durch|trenn|ten
 durchweg,durch|weg
 durchzurechnen,durch|zu|rech|nen
@@ -3081,6 +3239,7 @@ eigenen,ei|ge|nen
 eigener,ei|ge|ner
 eigentlich,ei|gent|lich
 ein,ein
+einatmen,ein|at|men
 einbezogen,ein|be|zo|gen
 einbringen,ein|brin|gen
 eindrücken,ein|drü|cken
@@ -3100,6 +3259,7 @@ einige,ei|ni|ge
 einigen,ei|ni|gen
 einjährigen,ein|jäh|ri|gen
 einkochen,ein|ko|chen
+einlochen,ein|lo|chen
 einmachen,ein|ma|chen
 einmal,ein|mal
 einpressen,ein|pres|sen
@@ -3139,7 +3299,9 @@ entgraten,ent|gra|ten
 entlang,ent|lang
 entnehme,ent|neh|me
 entscheidet,ent|schei|det
+entspannen,ent|span|nen
 entspannt,ent|spannt
+entsperren,ent|sper|ren
 entsprechend,ent|sprech|end
 entweder,ent|we|der
 entwerfen,ent|wer|fen
@@ -3172,9 +3334,11 @@ erlebt,er|lebt
 erledigen,er|le|di|gen
 erledigt,er|le|digt
 erlernen,er|ler|nen
+erlischt,er|lischt
 erloschen,er|lo|schen
 ermöglicht,er|mög|licht
 erneut,er|neut
+ernten,ern|ten
 erodieren,e|ro|die|ren
 erreichbar,er|reich|bar
 erreichbare,er|reich|ba|re
@@ -3228,6 +3392,7 @@ faul,faul
 faulenzen,fau|len|zen
 feilen,fei|len
 fein,fein
+feindlich,feind|lich
 fern,fern
 fest,fest
 festschrauben,fest|schrau|ben
@@ -3245,6 +3410,7 @@ finanzielle,fi|nan|ziel|le
 finden,fin|den
 findet,fin|det
 finster,fins|ter
+fischen,fi|schen
 fixiere,fi|xie|re
 fixiert,fi|xiert
 flachsenken,flach|sen|ken
@@ -3256,6 +3422,7 @@ flambiertet,flam|bier|tet
 flanieren,fla|nie|ren
 fliegen,flie|gen
 fließpressen,fließ|pres|sen
+flimmern,flim|mern
 flächenweise,flä|chen|wei|se
 fokussieren,fo|kus|sie|ren
 folgende,fol|gen|de
@@ -3289,6 +3456,7 @@ fußballverrücktes,fuß|ball|ver|rück|tes
 fällt,fällt
 färben,fär|ben
 fügen,fü|gen
+fühltet,fühl|tet
 führte,führ|te
 fünf,fünf
 für,für
@@ -3317,10 +3485,12 @@ gedankt,ge|dankt
 gedeihen,ge|dei|hen
 gedreht,ge|dreht
 geeigneten,ge|eig|ne|ten
+gefesselt,ge|fes|selt
 geflochten,ge|floch|ten
 geforscht,ge|forscht
 gefragt,ge|fragt
 gefunden,ge|fun|den
+gefährlich,ge|fähr|lich
 gefördert,ge|för|dert
 gegangen,ge|gan|gen
 gegeben,ge|ge|ben
@@ -3340,6 +3510,7 @@ geistreiches,geist|rei|ches
 gekauft,ge|kauft
 gekrümmtes,ge|krümm|tes
 gekühlten,ge|kühl|ten
+gelacht,ge|lacht
 gelassen,ge|las|sen
 gelb,gelb
 gelben,gel|ben
@@ -3382,6 +3553,7 @@ geschickt,ge|schickt
 geschickte,ge|schick|te
 geschieht,ge|schieht
 geschlichen,ge|schli|chen
+geschmückt,ge|schmückt
 geschnitten,ge|schnit|ten
 geschrumpft,ge|schrumpft
 geschälten,ge|schäl|ten
@@ -3442,6 +3614,7 @@ globaler,glo|ba|ler
 gläubig,gläu|big
 glücklich,glück|lich
 glückliches,glück|li|ches
+golfen,gol|fen
 goss,goss
 gossen,gos|sen
 gossest,gos|sest
@@ -3454,6 +3627,7 @@ grillten,grill|ten
 grilltest,grill|test
 grilltet,grill|tet
 grimmer,grim|mer
+grinsen,grin|sen
 grinst,grinst
 grinste,grins|te
 grober,gro|ber
@@ -3467,6 +3641,7 @@ großer,gro|ßer
 großes,gro|ßes
 großvolumige,groß|vo|lu|mi|ge
 grundsätzlich,grund|sätz|lich
+grunzen,grun|zen
 größer,grö|ßer
 größere,grö|ße|re
 größeren,grö|ße|ren
@@ -3492,6 +3667,7 @@ halt,halt
 halten,hal|ten
 haltet,hal|tet
 harmonischen,har|mo|ni|schen
+hart,hart
 hartes,har|tes
 hartlöten,hart|lö|ten
 hast,hast
@@ -3618,6 +3794,7 @@ irgendwo,ir|gend|wo
 irre,ir|re
 ist,ist
 ja,ja
+jagen,ja|gen
 jammern,jam|mern
 je,je
 jede,je|de
@@ -3671,6 +3848,8 @@ keiner,kei|ner
 keines,kei|nes
 kennengelernt,ken|nen|ge|lernt
 kennenlernen,ken|nen|ler|nen
+keuchen,keu|chen
+keuchte,keu|chte
 klar,klar
 klarer,kla|rer
 klassenpolitischer,klas|sen|po|li|ti|scher
@@ -3680,8 +3859,10 @@ kleine,klei|ne
 kleinen,klei|nen
 kleiner,klei|ner
 klettern,klet|tern
+klettert,klet|tert
 klipsen,klip|sen
 klopfen,klo|pfen
+knacken,kna|cken
 knallte,knall|te
 knapp,knapp
 kochen,ko|chen
@@ -3693,6 +3874,7 @@ kochtet,koch|tet
 kollektives,kol|lek|ti|ves
 kolonialisiert,ko|lo|ni|a|li|siert
 kombinieren,kom|bi|nie|ren
+komm,komm
 kommen,kom|men
 kommenden,kom|men|den
 kommentieren,kom|men|tie|ren
@@ -3713,6 +3895,7 @@ kraftlos,kraft|los
 krankes,kran|kes
 kraxeln,kra|xeln
 kreativ,kre|a|tiv
+kreischen,krei|schen
 kreuzweise,kreuz|wei|se
 kriechen,krie|chen
 kriegt,kriegt
@@ -3727,6 +3910,7 @@ kurz,kurz
 kurzer,kur|zer
 käme,kä|me
 kämen,kä|men
+kämpfen,käm|pfen
 kämpfte,kämpf|te
 köcheln,kö|cheln
 können,kön|nen
@@ -3734,6 +3918,7 @@ könnt,könnt
 könnte,könn|te
 könnten,könn|ten
 köstlich,köst|lich
+kümmere,küm|me|re
 kümmern,küm|mern
 kündigen,kün|di|gen
 künstlerische,künst|le|ri|sche
@@ -3741,6 +3926,7 @@ kürzlich,kürz|lich
 lachen,la|chen
 lacht,lacht
 lackieren,la|ckie|ren
+landen,lan|den
 lang,lang
 lange,lan|ge
 langen,lan|gen
@@ -3781,6 +3967,8 @@ letzte,letz|te
 letzten,letz|ten
 letztens,letz|tens
 letztere,letz|te|re
+leuchten,leuch|ten
+leuchtet,leuch|tet
 liberale,li|be|ra|le
 lieber,lie|ber
 liebt,liebt
@@ -3795,6 +3983,7 @@ linken,lin|ken
 links,links
 linksliberale,links|li|be|ra|le
 lohnt,lohnt
+los,los
 losschrauben,los|schrau|ben
 lächeln,lä|cheln
 längs,längs
@@ -3802,6 +3991,10 @@ längst,längst
 läppen,läp|pen
 lässt,lässt
 läuft,läuft
+löffeln,löf|feln
+lösche,lö|sche
+löschen,lö|schen
+löschte,lösch|te
 lösen,lö|sen
 löten,lö|ten
 machen,ma|chen
@@ -3814,6 +4007,7 @@ manchmal,manch|mal
 manuelle,ma|nu|el|le
 manuelles,ma|nu|el|les
 maritime,ma|ri|ti|me
+massiv,mas|siv
 massivumformen,mas|siv|um|for|men
 maximal,ma|xi|mal
 maximale,ma|xi|ma|le
@@ -3883,6 +4077,10 @@ musstest,muss|test
 musstet,muss|tet
 muß,muß
 mystische,mys|ti|sche
+männlich,männ|lich
+männliche,männ|li|che
+männlicher,männ|li|cher
+männliches,männ|li|ches
 möchte,möch|te
 möchten,möch|ten
 mögen,mö|gen
@@ -3895,6 +4093,7 @@ müsse,müs|se
 müssen,müs|sen
 müsst,müsst
 müssten,müss|ten
+na,na
 nach,nach
 nachdem,nach|dem
 nachfolgende,nach|fol|gen|de
@@ -3930,6 +4129,8 @@ nichts,nichts
 nichtstaatliche,nicht|staat|li|che
 nie,nie
 niedergelassenen,nie|der|ge|las|se|nen
+niedermachen,nie|der|ma|chen
+niederstechen,nie|der|ste|chen
 niedlich,nied|lich
 niedrigen,nie|dri|gen
 niedriger,nie|dri|ger
@@ -3939,6 +4140,7 @@ noch,noch
 normal,nor|mal
 notierte,no|tier|te
 notwendig,not|wen|dig
+null,null
 nun,nun
 nur,nur
 nutzen,nut|zen
@@ -3965,6 +4167,7 @@ offenes,of|fe|nes
 offensichtlich,of|fen|sicht|lich
 oft,oft
 ohne,oh|ne
+okay,o|kay
 on,on
 opfern,o|pfern
 optimale,op|ti|ma|le
@@ -3974,6 +4177,7 @@ ordentlich,or|dent|lich
 organisiert,or|ga|ni|siert
 oxidieren,o|xi|die|ren
 paar,paar
+parken,par|ken
 passieren,pas|sie|ren
 peitschen,peit|schen
 pellen,pel|len
@@ -3988,6 +4192,7 @@ permanent,per|ma|nent
 persönliche,per|sön|li|che
 pflegen,pfle|gen
 pinkeln,pin|keln
+pissen,pis|sen
 plandrehen,plan|dre|hen
 planen,pla|nen
 planfräsen,plan|frä|sen
@@ -4006,6 +4211,7 @@ probierte,pro|bier|te
 probierten,pro|bier|ten
 probiertest,pro|bier|test
 probiertet,pro|bier|tet
+problematisch,pro|ble|ma|tisch
 problemlos,pro|blem|los
 produziert,pro|du|ziert
 produzierte,pro|du|zier|te
@@ -4031,6 +4237,7 @@ pürierten,pü|rier|ten
 püriertest,pü|rier|test
 püriertet,pü|rier|tet
 quasi,qua|si
+quasseln,quas|seln
 querschnittgelähmten,quer|schnitt|ge|lähm|ten
 quirlen,quir|len
 radfahren,rad|fah|ren
@@ -4060,6 +4267,8 @@ relativiert,re|la|ti|viert
 rennen,ren|nen
 respektive,res|pek|ti|ve
 restlichen,rest|li|chen
+retten,ret|ten
+rettet,ret|tet
 richten,rich|ten
 richtet,rich|tet
 richtig,rich|tig
@@ -4107,7 +4316,9 @@ salzte,salz|te
 salzten,salz|ten
 salztest,salz|test
 salztet,salz|tet
+sammelt,sam|melt
 sandstrahlen,sand|strah|len
+sang,sang
 sattes,sat|tes
 saublöder,sau|blö|der
 sauer,sau|er
@@ -4126,6 +4337,7 @@ schichtetest,schich|te|test
 schichtetet,schich|te|tet
 schießen,schie|ßen
 schlagen,schla|gen
+schlammig,schlam|mig
 schlechten,schlech|ten
 schleichen,schlei|chen
 schleifen,schlei|fen
@@ -4148,8 +4360,10 @@ schmecktest,schmeck|test
 schmecktet,schmeck|tet
 schmieren,schmie|ren
 schmücken,schmü|cken
+schnappen,schnap|pen
 schneiden,schnei|den
 schnell,schnell
+schnitzte,schnitz|te
 schon,schon
 schottischen,schot|ti|schen
 schrauben,schrau|ben
@@ -4162,6 +4376,7 @@ schwamm,schwamm
 schwanken,schwan|ken
 schwarze,schwar|ze
 schweben,schwe|ben
+schwebend,schwe|bend
 schwebte,schweb|te
 schweißen,schwei|ßen
 schwer,schwer
@@ -4225,6 +4440,8 @@ setzte,setz|te
 setzten,setz|ten
 setztest,setz|test
 setztet,setz|tet
+seufzen,seuf|zen
+seufztet,seufz|tet
 sich,sich
 sicherlich,si|cher|lich
 sichtbar,sicht|bar
@@ -4235,6 +4452,8 @@ siebte,sieb|te
 siehe,sie|he
 sieht,sieht
 sind,sind
+singen,sin|gen
+singt,singt
 sintern,sin|tern
 sitzen,sit|zen
 sitzt,sitzt
@@ -4274,10 +4493,12 @@ spanen,spa|nen
 spannen,span|nen
 spazieren,spa|zie|ren
 spezielles,spe|zi|el|les
+spielen,spie|len
 spielenden,spie|len|den
 spielt,spielt
 spielte,spiel|te
 spinnt,spinnt
+spionieren,spi|o|nie|ren
 sportlich,sport|lich
 sprach,sprach
 sprang,sprang
@@ -4297,6 +4518,7 @@ spürt,spürt
 staatlich,staat|lich
 staatlichen,staat|li|chen
 stabilem,sta|bi|lem
+stach,stach
 stammen,stam|men
 stammt,stammt
 stand,stand
@@ -4308,6 +4530,9 @@ stationär,sta|ti|o|när
 statt,statt
 stattdessen,statt|des|sen
 stauchen,stau|chen
+staunen,stau|nen
+staunt,staunt
+steche,ste|che
 stecke,ste|cke
 steckte,steck|te
 stehen,ste|hen
@@ -4343,6 +4568,7 @@ ständiger,stän|di|ger
 stärker,stär|ker
 stärksten,stärks|ten
 stürmen,stür|men
+stürzen,stür|zen
 suchen,su|chen
 suchten,such|ten
 suchtest,such|test
@@ -4366,13 +4592,16 @@ teil,teil
 teilnehmen,teil|neh|men
 teilweise,teil|wei|se
 tempern,tem|pern
+teuflisch,teuf|lisch
 the,the
 therapiert,the|ra|piert
 tiefziehen,tief|zie|hen
 tischplattengroßen,tisch|plat|ten|gro|ßen
 tolle,tol|le
+tot,tot
 traben,tra|ben
 traditionellen,tra|di|ti|o|nel|len
+traf,traf
 tragen,tra|gen
 tragende,tra|gen|de
 trainieren,trai|nie|ren
@@ -4380,6 +4609,7 @@ traktieren,trak|tie|ren
 trampeln,tram|peln
 traten,tra|ten
 traurig,trau|rig
+traut,traut
 treiben,trei|ben
 treibende,trei|ben|de
 trennen,tren|nen
@@ -4389,6 +4619,7 @@ trocknete,trock|ne|te
 trockneten,trock|ne|ten
 trocknetest,trock|ne|test
 trocknetet,trock|ne|tet
+trommeln,trom|meln
 tropfte,tropf|te
 tropften,tropf|ten
 tropftest,tropf|test
@@ -4398,7 +4629,10 @@ trotzdem,trotz|dem
 trägt,trägt
 tränken,trän|ken
 tun,tun
+tust,tust
 tut,tut
+tuten,tu|ten
+typisch,ty|pisch
 typischen,ty|pi|schen
 täglich,täg|lich
 tänzeln,tän|zeln
@@ -4432,8 +4666,11 @@ unerreichbar,un|er|reich|bar
 unfähig,un|fä|hig
 ungeachtet,un|ge|ach|tet
 ungenutzten,un|ge|nutz|ten
+unglaubwürdig,un|glaub|wür|dig
 unglücklichen,un|glück|li|chen
+unheilig,un|hei|lig
 unheimlich,un|heim|lich
+unhörbar,un|hör|bar
 unnachahmlich,un|nach|ahm|lich
 uns,uns
 unser,un|ser
@@ -4454,6 +4691,9 @@ unterscheidenden,un|ter|schei|den|den
 unterschiedliche,un|ter|schied|li|che
 unterschiedlichen,un|ter|schied|li|chen
 unterstützen,un|ter|stüt|zen
+untersuche,un|ter|suche
+untersuchen,un|ter|su|chen
+untersuchtet,un|ter|such|tet
 unterzeichnen,un|ter|zeich|nen
 unterzeichnet,un|ter|zeich|net
 unverdrossenen,un|ver|dros|se|nen
@@ -4462,6 +4702,7 @@ unverwahrtes,un|ver|wahr|tes
 unverwüstlich,un|ver|wüst|lich
 unvorsichtig,un|vor|sich|tig
 unweit,un|weit
+unwissend,un|wis|send
 unzähligen,un|zäh|li|gen
 urformen,ur|for|men
 verabredet,ver|ab|re|det
@@ -4490,10 +4731,12 @@ verfügen,ver|fü|gen
 verführerischen,ver|füh|re|ri|schen
 vergangenen,ver|gan|ge|nen
 vergessen,ver|ges|sen
+vergiftet,ver|gif|tet
 vergleichbare,ver|gleich|ba|re
 vergleichen,ver|glei|chen
 vergleichsweise,ver|gleichs|wei|se
 verglich,ver|glich
+verhandeln,ver|han|deln
 verhandelt,ver|han|delt
 verheerende,ver|hee|ren|de
 verheerenden,ver|hee|ren|den
@@ -4502,6 +4745,7 @@ verirrten,ver|irr|ten
 verkabelte,ver|ka|bel|te
 verkauft,ver|kauft
 verkleinern,ver|klei|nern
+verknüpfen,ver|knüp|fen
 verlassen,ver|las|sen
 verlegen,ver|le|gen
 verlichtete,ver|lich|te|te
@@ -4517,6 +4761,7 @@ vernieten,ver|nie|ten
 vernähen,ver|nä|hen
 verregnet,ver|reg|net
 verschenkt,ver|schenkt
+verscheuchen,ver|scheu|chen
 verschieben,ver|schie|ben
 verschiedene,ver|schie|de|ne
 verschiedenen,ver|schie|de|nen
@@ -4528,6 +4773,7 @@ verschweißen,ver|schwei|ßen
 verschwitzt,ver|schwitzt
 versehenen,ver|se|he|nen
 versetze,ver|set|ze
+verspannt,ver|spannt
 versteht,ver|steht
 verständliche,ver|ständ|li|che
 verstärkte,ver|stärk|te
@@ -4535,6 +4781,8 @@ verstünden,ver|stün|den
 versucht,ver|sucht
 vertrauen,ver|trau|en
 vertraut,ver|traut
+verunreinigt,ver|un|rei|nigt
+verweilen,ver|wei|len
 verwenden,ver|wen|den
 verwendet,ver|wen|det
 verwöhnt,ver|wöhnt
@@ -4606,6 +4854,11 @@ weder,we|der
 weg,weg
 wegen,we|gen
 weggeworfen,weg|ge|wor|fen
+wehren,weh|ren
+weiblich,weib|lich
+weibliche,weib|li|che
+weiblicher,weib|li|cher
+weibliches,weib|li|ches
 weich,weich
 weichlöten,weich|lö|ten
 weigerte,wei|ger|te
@@ -4648,6 +4901,7 @@ wiederholen,wie|der|ho|len
 wild,wild
 wilde,wil|de
 will,will
+willkommen,will|kom|men
 willst,willst
 wir,wir
 wird,wird
@@ -4700,6 +4954,7 @@ würzte,würz|te
 würzten,würz|ten
 würztest,würz|test
 würztet,würz|tet
+wüten,wü|ten
 zahlen,zah|len
 zahnen,zah|nen
 zappelig,zap|pe|lig
@@ -4739,6 +4994,7 @@ zunehmende,zu|neh|men|de
 zunächst,zu|nächst
 zupfen,zup|fen
 zur,zur
+zurück,zu|rück
 zurückblicken,zu|rück|bli|cken
 zurückerkämpft,zu|rück|er|kämpft
 zurückerlangen,zu|rück|er|lan|gen
